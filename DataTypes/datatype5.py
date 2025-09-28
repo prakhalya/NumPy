@@ -1,6 +1,6 @@
 import numpy as np
 
-arr = np.array([1, 0, 3])
+arr = np.array([1, 3, 3])
 
 newarr = arr.astype(bool)
 
